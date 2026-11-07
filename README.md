@@ -20,6 +20,6 @@ Adjust `config.toml` to change timing, particle count, geometry, render mode, br
 
 ## Reference fidelity
 
-The checked-in reference GIF is 432×384, 10 fps, and 20 seconds long. The live animation starts blank, draws the near-circular ring from the bottom in two arcs, builds the smaller downward-pointing diamond from its tip, then reveals “WILL YOU MARRY MEANISHU...?” in bold, centered text below it. The text stays visible during the two horizontal spins around the ring's bottom point, then fades with the sculpture for a seamless loop. The preview is generated from the live simulation; the reference file remains unchanged.
+The checked-in reference GIF is 432×384, 10 fps, and 20 seconds long. The live animation starts blank, draws the near-circular ring from the bottom in two arcs, builds the smaller downward-pointing diamond from its tip, then reveals “WILL YOU MARRY ME ANISHU...?” in bold, centered text below it. The text stays visible during the two horizontal spins around the ring's bottom point, then fades with the sculpture for a seamless loop. The preview is generated from the live simulation; the reference file remains unchanged.
 
 The terminal player requires a POSIX TTY. GIF export requires FFmpeg. The only Python runtime dependency is NumPy; Pillow and SciPy are not required.
