@@ -1,0 +1,29 @@
+[animation]
+fps = 10
+duration = 20.0
+speed = 1.0
+seed = 42017
+angular_reveal_speed = 1.0
+reconstruction_speed = 1.0
+
+[particles]
+count = 1380
+ambient = 95
+noise = 0.018
+brightness = 0.82
+
+[geometry]
+ring_radius = 0.255
+ring_aspect = 1.12
+ring_thickness = 0.014
+diamond_width = 0.12
+diamond_height = 0.32
+orbit_eccentricity = 0.72
+orbit_inclination = 0.32
+
+[render]
+mode = "dots"
+color = "truecolor"
+hud = true
+seed = 42017
+
