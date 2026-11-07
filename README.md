@@ -1,5 +1,5 @@
 # Wedding Ring
-A procedural monochrome particle artwork for an ANSI terminal. The scene is calculated at runtime from persistent parametric ring, crown, orbit, axis, and ambient-star particles. It uses NumPy for the vectorized particle field and emits Braille dot cells with truecolor ANSI by default. The default composition follows `reference/ChatGPT Image Nov 5, 2026, 09_39_30 PM.gif`: a vertically elongated glyph ring, faceted crown, faint crossing orbital traces, star grain, and compact HUD.
+A procedural monochrome particle artwork for an ANSI terminal. The scene is calculated at runtime from persistent parametric ring, crown, orbit, axis, and ambient-star particles. It uses NumPy for the vectorized particle field and emits Braille dot cells with truecolor ANSI by default. The default composition follows, a vertically elongated glyph ring, faceted crown, faint crossing orbital traces, star grain, and compact HUD.
 
 ## Install on Arch Linux
 
